@@ -2,7 +2,7 @@
 - 👀 I’m interested in LOVE
 - 🌱 I’m currently learning CODING
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me @KingdomPillarofficial (instagram)
+- 📫 How to reach me @JZZRJZ (X)
 
 <!---
 KingdomKoder/KingdomKoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
